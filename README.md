@@ -7,6 +7,7 @@ Murat, Junior backend developer
 ![Jularin's github stats](https://github-readme-stats.vercel.app/api?username=Jularin&show_icons=true&include_all_commits=true&count_private=true)
 
 <!--START_SECTION:waka-->
+SHOW_LANGUAGE
 <!--END_SECTION:waka-->
 
 ### 💻 My technology stack
