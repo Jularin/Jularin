@@ -6,6 +6,9 @@ Murat, Junior backend developer
 
 ![Jularin's github stats](https://github-readme-stats.vercel.app/api?username=Jularin&show_icons=true&include_all_commits=true&count_private=true)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### 💻 My technology stack
  - Python
  - Django, DRF, Swagger
