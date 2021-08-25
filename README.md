@@ -38,14 +38,13 @@ Sunday       30 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   26 mins             ██████████████████░░░░░░░   75.2% 
-Other                    8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.8%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  34 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    34 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -64,7 +63,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Jularin/Jularin/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/08/2021
+ Last Updated on 25/08/2021
 <!--END_SECTION:waka-->
 
 ### 💻 My technology stack
