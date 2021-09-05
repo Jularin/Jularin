@@ -7,14 +7,14 @@ Murat, Junior backend developer
 ![Jularin's github stats](https://github-readme-stats.vercel.app/api?username=Jularin&show_icons=true&include_all_commits=true&count_private=true)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18417%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18277%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning    13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.04% 
-🌆 Daytime    86 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
-🌃 Evening    130 commits    ████████████░░░░░░░░░░░░░   50.39% 
+🌆 Daytime    82 commits     ████████░░░░░░░░░░░░░░░░░   31.78% 
+🌃 Evening    134 commits    █████████████░░░░░░░░░░░░   51.94% 
 🌙 Night      29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.24%
 
 ```
@@ -22,12 +22,12 @@ Murat, Junior backend developer
 
 ```text
 Monday       53 commits     █████░░░░░░░░░░░░░░░░░░░░   20.54% 
-Tuesday      35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.57% 
+Tuesday      31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.02% 
 Wednesday    44 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.05% 
 Thursday     35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.57% 
 Friday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.47% 
 Saturday     34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.18% 
-Sunday       30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.63%
+Sunday       34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.18%
 
 ```
 
@@ -38,13 +38,14 @@ Sunday       30 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   12 mins             █████████████████████████   100.0% 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  12 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    12 mins             █████████████████████████   100.0%
 
 ```
 
@@ -63,7 +64,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Jularin/Jularin/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2021
+ Last Updated on 05/09/2021
 <!--END_SECTION:waka-->
 
 ### 💻 My technology stack
