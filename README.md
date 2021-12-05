@@ -7,7 +7,7 @@ Murat, Junior backend developer
 ![Jularin's github stats](https://github-readme-stats.vercel.app/api?username=Jularin&show_icons=true&include_all_commits=true&count_private=true)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20356%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14681%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -38,17 +38,17 @@ Sunday       37 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   2 hrs 29 mins       ███████████████████████░░   91.52% 
-YAML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.64% 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+Python                   2 hrs 39 mins       ████████████░░░░░░░░░░░░░   50.07% 
+YAML                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
+Text                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.42% 
+Docker                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.65% 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.96%
 
 🔥 Editors: 
-PyCharm                  2 hrs 43 mins       █████████████████████████   100.0%
+PyCharm                  5 hrs 17 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    2 hrs 43 mins       █████████████████████████   100.0%
+Linux                    5 hrs 17 mins       █████████████████████████   100.0%
 
 ```
 
@@ -67,7 +67,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Jularin/Jularin/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/11/2021
+ Last Updated on 05/12/2021
 <!--END_SECTION:waka-->
 
 ### 💻 My technology stack
