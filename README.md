@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Murat, Junior backend developer
+Murat, Python backend developer
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jularin&layout=compact)]()
 
