@@ -7,7 +7,7 @@ Murat, Python backend developer
 ![Jularin's github stats](https://github-readme-stats.vercel.app/api?username=Jularin&show_icons=true&include_all_commits=true&count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22%20Thousand%20lines%20of%20code-blue)
 
@@ -40,18 +40,18 @@ Sunday       34 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   5 hrs 43 mins       ███████████████████████░░   94.58% 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.29% 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46% 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36% 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
+Python                   3 hrs 37 mins       ███████████████████████░░   91.77% 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.58% 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68% 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56% 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
 
 🔥 Editors: 
-PyCharm                  6 hrs 2 mins        █████████████████████████   100.0%
+PyCharm                  3 hrs 56 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    5 hrs 23 mins       ██████████████████████░░░   89.17% 
-Windows                  39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.83%
+Linux                    3 hrs 17 mins       ████████████████████░░░░░   83.39% 
+Windows                  39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.61%
 
 ```
 
@@ -70,7 +70,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Jularin/Jularin/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/05/2022 18:51:24 UTC
+ Last Updated on 12/05/2022 18:54:03 UTC
 <!--END_SECTION:waka-->
 
 ### 💻 My technology stack
