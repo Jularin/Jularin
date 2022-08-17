@@ -7,7 +7,7 @@ Murat, Python backend developer
 ![Jularin's github stats](https://github-readme-stats.vercel.app/api?username=Jularin&show_icons=true&include_all_commits=true&count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22%20Thousand%20lines%20of%20code-blue)
 
@@ -65,7 +65,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Jularin/Jularin/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/08/2022 18:52:49 UTC
+ Last Updated on 17/08/2022 18:51:51 UTC
 <!--END_SECTION:waka-->
 
 ### 💻 My technology stack
