@@ -65,7 +65,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Jularin/Jularin/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/09/2022 18:50:51 UTC
+ Last Updated on 03/09/2022 18:48:51 UTC
 <!--END_SECTION:waka-->
 
 ### 💻 My technology stack
